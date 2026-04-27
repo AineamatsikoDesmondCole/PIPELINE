@@ -1,0 +1,4 @@
+# Compiled by the IDE
+__pycache__/
+*.pyc
+*.pyo
